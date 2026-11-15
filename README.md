@@ -1,3 +1,4 @@
+
 # SB Stocks - Production-Ready Paper Trading Platform
 
 SB Stocks is a full-stack MERN (MongoDB, Express, React, Node.js) paper trading platform. It provides an educational, risk-free environment where users can practice US stock market trading with virtual cash ($100,000) using real-time quotes, news, and historical candlestick graphs.
@@ -89,3 +90,6 @@ npm install
 npm run dev
 ```
 Open `http://localhost:5173` in your browser. Register an account and enjoy paper trading!
+
+# SB-Stocks
+
